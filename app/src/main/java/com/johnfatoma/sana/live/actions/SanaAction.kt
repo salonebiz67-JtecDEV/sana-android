@@ -49,4 +49,3 @@ data class SanaActionResult(
     val message: String = "",
     val data: Map<String, Any?> = emptyMap(),
 )
-
